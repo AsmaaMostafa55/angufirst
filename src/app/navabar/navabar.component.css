@@ -1,0 +1,18 @@
+.navv{
+    background-color: #2C3E50;
+    height: 90px;
+   display: flex;
+   align-items: center;
+
+}
+.navbar-brand,.nav-link  {
+   color: white!important;
+   font-weight: bold;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.x{
+    background-color: #1ABC9C;
+    border-radius: 10px;
+}

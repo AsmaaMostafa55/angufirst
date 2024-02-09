@@ -1,0 +1,30 @@
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    margin: 20px;
+}
+.twoline{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+   
+}
+.bodyabout{
+    background-color: #1ABC9C;
+    height: 80vh;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.x{
+    color: white;
+    max-width: 600px;
+
+}

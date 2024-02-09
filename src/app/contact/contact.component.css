@@ -1,0 +1,45 @@
+.cc{
+    color: #2C3E50;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.bb{
+    margin-top: 110px;
+}
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+    margin: 20px;
+}
+.twoline{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+   
+}
+.formv{
+    margin-top: 100px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    transform: translateX(300px);
+}
+.we{
+    width: 50%;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #787676;
+}
+input:focus {
+    outline: none!important;
+  }
+  .form-control:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: #787676;
+    outline: 0;
+    box-shadow: 0 0 0 0.0rem transparent;}
